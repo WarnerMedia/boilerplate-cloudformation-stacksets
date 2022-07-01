@@ -14,3 +14,7 @@ Boilerplate templates for using CloudFormation StackSets to manage AWS infrastru
 # License
 
 This repository is released under [the MIT license](https://en.wikipedia.org/wiki/MIT_License).  View the [local license file](./LICENSE).
+
+# Test
+
+This is a test to make sure that the CLA Assistant is working as needed.
